@@ -1,3 +1,5 @@
+A WIP die roll app with a roll and save function
+
 # co15043d6a3ae2dd13568f58d
 
 Quick start:
